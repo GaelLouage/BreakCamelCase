@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\BreakCamelCaseExercise\BreakCamelCaseExercise\bin\Debug\net8.0\BreakCamelCaseExercise.exe
+C:\Users\louag\source\repos\BreakCamelCaseExercise\BreakCamelCaseExercise\bin\Debug\net8.0\BreakCamelCaseExercise.deps.json
+C:\Users\louag\source\repos\BreakCamelCaseExercise\BreakCamelCaseExercise\bin\Debug\net8.0\BreakCamelCaseExercise.runtimeconfig.json
+C:\Users\louag\source\repos\BreakCamelCaseExercise\BreakCamelCaseExercise\bin\Debug\net8.0\BreakCamelCaseExercise.dll
+C:\Users\louag\source\repos\BreakCamelCaseExercise\BreakCamelCaseExercise\bin\Debug\net8.0\BreakCamelCaseExercise.pdb
+C:\Users\louag\source\repos\BreakCamelCaseExercise\BreakCamelCaseExercise\obj\Debug\net8.0\BreakCamelCaseExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\BreakCamelCaseExercise\BreakCamelCaseExercise\obj\Debug\net8.0\BreakCamelCaseExercise.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\BreakCamelCaseExercise\BreakCamelCaseExercise\obj\Debug\net8.0\BreakCamelCaseExercise.AssemblyInfo.cs
+C:\Users\louag\source\repos\BreakCamelCaseExercise\BreakCamelCaseExercise\obj\Debug\net8.0\BreakCamelCaseExercise.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\BreakCamelCaseExercise\BreakCamelCaseExercise\obj\Debug\net8.0\BreakCamelCaseExercise.dll
+C:\Users\louag\source\repos\BreakCamelCaseExercise\BreakCamelCaseExercise\obj\Debug\net8.0\refint\BreakCamelCaseExercise.dll
+C:\Users\louag\source\repos\BreakCamelCaseExercise\BreakCamelCaseExercise\obj\Debug\net8.0\BreakCamelCaseExercise.pdb
+C:\Users\louag\source\repos\BreakCamelCaseExercise\BreakCamelCaseExercise\obj\Debug\net8.0\BreakCamelCaseExercise.genruntimeconfig.cache
+C:\Users\louag\source\repos\BreakCamelCaseExercise\BreakCamelCaseExercise\obj\Debug\net8.0\ref\BreakCamelCaseExercise.dll
